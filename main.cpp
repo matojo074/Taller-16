@@ -6,6 +6,7 @@ void ingresar (int k[], int num);
 void burbujapares (int k[], int num, int l[]);
 void imprimir (int k[], int num);
 
+
 int main() 
 {
   int arreglo [50];
